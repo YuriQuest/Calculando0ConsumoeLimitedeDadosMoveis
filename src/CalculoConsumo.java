@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class CalculoConsumo {
 
     // Função para calcular o consumo total de dados móveis
     public static int calcularConsumoTotal(String[] consumoSemanal) {
